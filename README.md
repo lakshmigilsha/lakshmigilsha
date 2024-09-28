@@ -1,7 +1,7 @@
-- 👋 Hi, I’m lakshmi M Mohan
+- 👋 Hi, I’m Lakshmi M Mohan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java,c,python 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning java,c,python,sql
+- 💞️ I’m looking to collaborate on datascience projects
 - 📫 How to reach me ...
 
 <!---
