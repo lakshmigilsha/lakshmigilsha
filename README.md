@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Lakshmi M Mohan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python,sql,Machine learning
-- 💞️ I’m looking to collaborate on datascience projects
-- 📫 How to reach me ...
+- 🌱 I’m currently learning python,sql,linux
+- 
+
 
 <!---
 lakshmigilsha/lakshmigilsha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
